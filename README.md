@@ -5,13 +5,13 @@
 I am a third-year Electronics and Telecommunications student at the University of Engineering and Technology (VNU-UET). My primary academic interest lies in the mathematical foundations and analytical modeling of advanced wireless communication systems, alongside practical implementations in IoT and embedded hardware.
 
 ### Current Focus
-- **Telecommunications Research:** Optimization of Cell-Free Wireless Networks for 6G, applying calculus and probability theory to evaluate network performance (e.g., $P(\text{SINR} > T)$).
+- **Telecommunications Research:** Optimization of Cell-Free Wireless Networks for 6G, applying calculus and probability theory to evaluate network performance.
 - **Embedded & IoT:** Hardware-software integration, real-time sensor data processing, and wireless telemetry using STM32 & ESP32.
 
 ### Tech Stack & Tools
 - **Wireless & Signal Processing:** `MATLAB`, `Python` (NumPy, SciPy), `NS-3`, MIMO-OFDM, Nakagami-m Fading, Monte Carlo Simulations.
-- **Embedded Systems:** `C/C++`, `STM32` (Bare-metal/Register-level), `ESP32`, UART, ADC, PWM.
-- **Other Tools:** `Linux`, `Git`, `LaTeX`, `Quartus Prime`.
+- **Embedded Systems:** `C/C++`, `STM32`, `ESP32`, UART, ADC, PWM.
+- **Other Tools:** `Linux`, `Git`, `LaTeX`, `OptiSystem`.
 
 ### Featured Projects
 * **[Nakagami-m Fading Channel Simulation](link-den-repo)**: Monte Carlo simulations evaluating throughput, outage probability, and multi-BS interference.
