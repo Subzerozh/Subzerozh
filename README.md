@@ -15,9 +15,9 @@ I am a third-year Electronics and Telecommunications student at the University o
 
 ### Featured Projects
 * **[Nakagami-m Fading Channel Simulation](link-den-repo)**: Monte Carlo simulations evaluating throughput, outage probability, and multi-BS interference.
+* **[Bluetooth-Controlled Car](https://github.com/Subzerozh/bluetooth-controlled-car)**: STM32F4-based vehicle featuring a custom UART communication frame, state-machine parser, and BER monitoring.
 * **[MIMO-OFDM 5G System](link-den-repo)**: MATLAB simulation analyzing BER vs. SNR and comparing BPSK/QPSK/QAM modulation schemes.
 * **[IoT Fall Detection System](link-den-repo)**: Real-time health monitoring wearable using ESP32, MAX30102, and MPU6050 with digital signal processing for free-fall recognition.
-* **[Bluetooth-Controlled Robot Vehicle](link-den-repo)**: STM32F4-based vehicle featuring a custom 4-byte UART frame, state-machine parser, and BER monitoring.
 
 ### Let's Connect!
 - **LinkedIn:** [Vu Ha](https://www.linkedin.com/in/vu-ha-63716a330/)
